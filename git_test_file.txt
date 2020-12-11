@@ -1,0 +1,2 @@
+				To create a git Text file
+1. The intention is to create repository from the Terminal.
